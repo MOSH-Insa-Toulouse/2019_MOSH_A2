@@ -24,7 +24,7 @@ Then, we created a library symbol for LTC 1050 and RN2483 Breakout
 
 Afterwards, we created the following circuit decomposed in 3 parts : 
 <br>
-1. Arduino part :
+1. Arduino part :<br>
 ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/montage%20arduino.JPG)<br>
 2. Sensor part :
 ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/montage%20capteur.JPG)<br>
