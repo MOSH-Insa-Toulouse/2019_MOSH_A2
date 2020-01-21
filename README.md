@@ -14,7 +14,7 @@
    Then we send data through the lora module through the library of the Internet of Things.By Viewing the device in the account to establish the transmission.<br>
    <img src="https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/key.png" width = 50% height = 50% />
    <br>
-   If it is normally 0 and the threshold is exceeded, our functions are well implemented, but we are sorry that we did not take photos because there were not enough lora modules at the time. , But you can put lora into the corresponding io port and run the program according to the code
+   If it is normally we get 0 and sned 1 if the threshold is exceeded, our functions are well implemented, but we are sorry that we did not take photos because there were not enough lora modules at the time. , But you can put lora into the corresponding io port and run the program according to the code
    
 ## 3.Kicad
 
