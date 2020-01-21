@@ -5,5 +5,7 @@
    <br>
    ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/Screen%20Shot%202020-01-21%20at%209.51.03%20AM.png)
    ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/Screen%20Shot%202020-01-21%20at%209.51.12%20AM.png)
+   <br>Here is the data we get of the features of our sensor
+   ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/DATA.png)
 ## 2.Arduino
 ## 3.Kicad
