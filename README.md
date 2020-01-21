@@ -9,7 +9,8 @@
    ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/DATA.png)
 ## 2.Arduino
    Below we will introduce the ardunio part. We have established a gas detection program through our gas sensor. By setting a threshold value, if the detected value exceeds this threshold value, the red led will light up and the alarm will be remembered. I want the user to send a reminder that the detection value exceeds the limit. Only when we press the button does it mean that we know the warning, and the buzzer sound will turn off.<br>
-   ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/proj.png)
+   <img src="https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/proj.png" width = 60% height = 60% />
+   <br>
    Then we send data through the lora module through the library of the Internet of Things. If it is normally 0 and the threshold is exceeded, our functions are well implemented, but we are sorry that we did not take photos because there were not enough lora modules at the time. , But you can put lora into the corresponding io port and run the program according to the code
    
 ## 3.Kicad
