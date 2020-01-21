@@ -9,7 +9,7 @@
    ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/DATA.png)
 ## 2.Arduino
 ## 3.Kicad
-##Schematic
+### Schematic
 
 This shield is composed of:
 
@@ -23,17 +23,15 @@ First, we created the project with an arduino UNO
 Then, we created a library symbol for LTC 1050 and RN2483 Breakout
 
 Afterwards, we created the following circuit decomposed in 3 parts : 
-
+<br>
 1. Arduino part :
-![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/montage%20arduino.JPG)
-
+![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/montage%20arduino.JPG)<br>
 2. Sensor part :
-![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/montage%20capteur.JPG)
-
+![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/montage%20capteur.JPG)<br>
 3. Buzzer part :
-![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/montage%20buzzer.JPG)
+![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/montage%20buzzer.JPG)<br>
 
-##PCB
+### PCB
 
 We first created all the footrpints needed. According the fact we needed to do the routage mostly on one layer (green). The red layer correspond to jumper added after PCB printing.
 ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/PCBLayout.PNG)
