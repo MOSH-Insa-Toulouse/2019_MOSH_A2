@@ -6,7 +6,7 @@
    ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/Screen%20Shot%202020-01-21%20at%209.51.03%20AM.png)
    ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/Screen%20Shot%202020-01-21%20at%209.51.12%20AM.png)
    <br>Here is the data we get of the features of our sensor
-   ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/DATA.png)
+   ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/feature.png)
 ## 2.Arduino
    Below we will introduce the ardunio part. We have established a gas detection program through our gas sensor. By setting a threshold value, if the detected value exceeds this threshold value, the red led will light up and the alarm will be remembered. I want the user to send a reminder that the detection value exceeds the limit. Only when we press the button does it mean that we know the warning, and the buzzer sound will turn off.<br>
    <img src="https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/proj.png" width = 60% height = 60% />
