@@ -43,7 +43,6 @@ Afterwards, we created the following circuit decomposed in 3 parts :
 ### PCB
 
 We first created all the footrpints needed. According the fact we needed to do the routage mostly on one layer (green). The red layer correspond to jumper added after PCB printing.
-![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/PCBLayout.PNG)
 
 Finally, this what we got in 2D without ground :
 ![](https://github.com/MOSH-Insa-Toulouse/2019_MOSH_A2/blob/master/Pics/pcb%202d%20sans%20masse.JPG)
